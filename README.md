@@ -4,9 +4,12 @@
 
 ### 🧑‍💻 About Me
 
-🎓 Final Year B.E. IT @ SVPM College of Engineering (SPPU)  
+🎓 IT Graduate @ SVPM College of Engineering (SPPU)  
 💡 Curious & passionate about solving problems with tech  
 🧠 Love working with Python, ML, and Web Technologies  
+📚 I treat every bug as a lesson, not a failure.
+🔄 I'm always exploring new technologies and striving to become 1% better every day.
+
 📈 CGPA: **9.40** | 📍 Baramati, Pune, Maharashtra  
 📬 Email: **[aratie2214@gmail.com](mailto:aratie2214@gmail.com)**  
 📱 Contact: 8855926071
