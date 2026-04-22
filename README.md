@@ -14,6 +14,17 @@
 📬 Email: **[aratie2214@gmail.com](mailto:aratie2214@gmail.com)**  
 📱 Contact: 8855926071
 
+
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ARATI_03/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/aratie2214)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/aratie3dze/)
+
+
+
 ---
 
 ### 🚀 My Tech Stack
