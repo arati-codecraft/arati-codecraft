@@ -15,14 +15,27 @@
 📱 Contact: 8855926071
 
 
-## 💻 Coding Profiles
+## 🚀 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ARATI_03/)
+> ✨ Where I practice, learn & grow every day as a developer
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/aratie2214)
+<p align="center">
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/aratie3dze/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Grinding-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ARATI_03/)
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coding_Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aratie2214)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aratie3dze/)
+
+</p>
+
+---
+
+### 🔥 My Coding Journey
+- 📘 Practicing Data Structures & Algorithms  
+- 🧠 Solving daily coding challenges  
+- 💻 Improving problem-solving skills  
+- 🚀 Preparing for placements & interviews  
 
 
 ---
