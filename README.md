@@ -6,7 +6,7 @@
 
 🎓 IT Graduate @ SVPM College of Engineering (SPPU)  
 💡 Curious & passionate about solving problems with tech  
-🧠 Love working with Python, ML, and Web Technologies  
+🧠 Love working with JAVA , Python, ML, and Web Technologies  
 📚 I treat every bug as a lesson, not a failure.
 -🔄 I'm always exploring new technologies and striving to become 1% better every day.
 
