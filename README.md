@@ -23,9 +23,9 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Practice-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ARATI_03/)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Coding_Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aratie2214)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coding_Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/aratie2214)
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aratie3dze/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/aratie3dze/)
 
 </p>
 ---
