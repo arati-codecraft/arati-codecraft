@@ -69,15 +69,16 @@
 
 ## 🌐 Socials
 
-> 🤝 Let’s connect and grow together!
+> 🤝 Connect with me on my profiles
 
 <p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arati_chavan003)
+[![Instagram](https://img.shields.io/badge/Instagram-View_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arati_chavan003)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arati-chavan-9aa0ba256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arati-chavan-9aa0ba256)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aratie2214@gmail.com)
+[![Email](https://img.shields.io/badge/Email-View_Profile-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aratie2214@gmail.com)
+
 
 </p>
 
