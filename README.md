@@ -69,7 +69,7 @@
 
 ## 🌐 Socials
 
-> 🤝 Connect with me
+> 🤝  Connect with me on my profiles
 
 <p align="center">
 
