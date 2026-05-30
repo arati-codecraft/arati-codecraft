@@ -10,7 +10,7 @@
 📚 I treat every bug as a lesson, not a failure.
 -🔄 I'm always exploring new technologies and striving to become 1% better every day.
 
-📈 CGPA: **9.40** | 📍 Baramati, Pune, Maharashtra  
+📈 CGPA: **8.50** | 📍 Baramati, Pune, Maharashtra  
 📬 Email: **[aratie2214@gmail.com](mailto:aratie2214@gmail.com)**  
 📱 Contact: 8855926071
 
