@@ -8,6 +8,7 @@
 💡 Curious & passionate about solving problems with tech  
 🧠 Love working with JAVA , SpringBoot, MySQL, and Web Technologies(html,css,jsp,js)  
 📚 I treat every bug as a lesson, not a failure.
+<br>
 🔄 I'm always exploring new technologies and striving to become 1% better every day.
 
 📈 CGPA: **8.50** | 📍 Baramati, Pune, Maharashtra  
