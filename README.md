@@ -66,6 +66,7 @@
 ### 📂 Projects
 | Project | Tech | Description |
 |--------|------|-------------|
+| 🎓 [Student Placement Tracking System](https://github.com/arati-codecraft/Student_Placement_Tracking_System) | Java | Placement management system for tracking students, placement activities, and recruitment information |
 | 🏠 [Hostel Management System](https://github.com/arati-codecraft/HOSTEL-MANAGMENT-SYSTEM) | Python | Manages student records, billing, and room allocation |
 | 💉 [Diabetes Prediction Model](https://github.com/arati-codecraft/Diabetes-prediction) | Python + Scikit-learn | ML model with 85% accuracy using health data |
 | 📄 [Resume Analysis & Job Recommender](https://github.com/arati-codecraft/RESUME-ANALYSIS-AND-SKILLS-JOB-RECOMMENDATION-SYSTEM) | Python, NLP, Excel | Matches resume to job and stores results automatically |
