@@ -68,7 +68,7 @@
 | Project | Tech | Description |
 |--------|------|-------------|
 | 📖 [SHABDSETU – Backend](https://github.com/arati-codecraft/SHABDSETU-Backend) | Java, Spring Boot, JDBC, MySQL | Backend for the SHABDSETU platform, developed using Java and Spring Boot with database connectivity and APIs |
-| 🎨 [SHABDSETU – Frontend](https://github.com/arati-codecraft/SHABDSETU-Frontend) | HTML, CSS, JavaScript | Frontend interface for the SHABDSETU platform with interactive web features and backend API integration |
+| 🎨 [SHABDSETU – Frontend](https://github.com/arati-codecraft/SHABDSETU-Frontend) | JSP, CSS, JavaScript | Frontend interface for the SHABDSETU platform with interactive web features and backend API integration |
 | 🎓 [Student Placement Tracking    System](https://github.com/arati-codecraft/Student_Placement_Tracking_System) | Java,springboot,jdbc,jsp,css,js | Placement management system for tracking            students, placement activities, and recruitment information |
 | 🏠 [Hostel Management System](https://github.com/arati-codecraft/HOSTEL-MANAGMENT-SYSTEM) | Python | Manages student records, billing, and room allocation |
 | 💉 [Diabetes Prediction Model](https://github.com/arati-codecraft/Diabetes-prediction) | Python + Scikit-learn | ML model with 85% accuracy using health data |
